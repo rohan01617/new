@@ -1,0 +1,40 @@
+.all{
+	background:#F1F1F1;
+	overflow: hidden;
+}
+.htmlandcss {
+    width: 169px;
+	float:left;
+}
+.javascript {
+    float: left;
+    margin-left: 47px;
+}
+.htmlgraphics {
+    float: left;
+    margin-left: 47px;
+}
+.serversider {
+    float: left;
+    margin-left: 47px;
+    width: 157px;
+}
+.webbuilding {
+    float: left;
+    margin-left: 47px;
+    width: 188px;
+}
+.htmltutorials {
+    float: left;
+    margin-left: 47px;
+    width: 208px;
+}
+
+
+
+
+
+
+
+
+
